@@ -1,0 +1,35 @@
+@media screen and (max-width:767px) {
+    .main-text {
+        padding: 0;
+    }
+
+    .about-me,
+    .witr_ani_text {
+        font-size: 20px;
+    }
+
+    .main-text h2 {
+        font-size: 26px;
+    }
+
+    .cv {
+        padding: 15px 0;
+        
+
+    }
+
+    .btn-social {
+        width: 55px;
+    }
+
+    .pc {
+        display: none;
+    }
+
+    .mob {
+        display: block;
+    }
+
+
+
+}

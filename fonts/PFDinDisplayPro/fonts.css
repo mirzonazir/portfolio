@@ -1,0 +1,132 @@
+@font-face {
+    font-family: 'PF DinDisplay Pro';
+    src: url('../PFDINDisplayPro/PFDinDisplayPro-BoldItalic.eot');
+    src: local('../PFDINDisplayPro/PFDinDisplayPro-BoldItalic'),
+        url('../PFDINDisplayPro/PFDinDisplayPro-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../PFDINDisplayPro/PFDinDisplayPro-BoldItalic.woff') format('woff'),
+        url('../PFDINDisplayPro/PFDinDisplayPro-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'PF DinDisplay Pro';
+    src: url('../PFDINDisplayPro/PFDinDisplayPro-BlackItalic.eot');
+    src: local('../PFDINDisplayPro/PFDinDisplayPro-BlackItalic'),
+        url('../PFDINDisplayPro/PFDinDisplayPro-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('../PFDINDisplayPro/PFDinDisplayPro-BlackItalic.woff') format('woff'),
+        url('../PFDINDisplayPro/PFDinDisplayPro-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'PF DinDisplay Pro';
+    src: url('../PFDINDisplayPro/PFDinDisplayPro-Thin.eot');
+    src: local('../PFDINDisplayPro/PFDinDisplayPro-Thin'),
+        url('../PFDINDisplayPro/PFDinDisplayPro-Thin.eot?#iefix') format('embedded-opentype'),
+        url('../PFDINDisplayPro/PFDinDisplayPro-Thin.woff') format('woff'),
+        url('../PFDINDisplayPro/PFDinDisplayPro-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF DinDisplay Pro';
+    src: url('../PFDINDisplayPro/PFDinDisplayPro-ThinItalic.eot');
+    src: local('../PFDINDisplayPro/PFDinDisplayPro-ThinItalic'),
+        url('../PFDINDisplayPro/PFDinDisplayPro-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('../PFDINDisplayPro/PFDinDisplayPro-ThinItalic.woff') format('woff'),
+        url('../PFDINDisplayPro/PFDinDisplayPro-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'PF DinDisplay Pro';
+    src: url('../PFDINDisplayPro/PFDinDisplayPro-Italic.eot');
+    src: local('../PFDINDisplayPro/PFDinDisplayPro-Italic'),
+        url('../PFDINDisplayPro/PFDinDisplayPro-Italic.eot?#iefix') format('embedded-opentype'),
+        url('../PFDINDisplayPro/PFDinDisplayPro-Italic.woff') format('woff'),
+        url('../PFDINDisplayPro/PFDinDisplayPro-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'PF DinDisplay Pro';
+    src: url('../PFDINDisplayPro/PFDinDisplayPro-MediumItalic.eot');
+    src: local('../PFDINDisplayPro/PFDinDisplayPro-MediumItalic'),
+        url('../PFDINDisplayPro/PFDinDisplayPro-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('../PFDINDisplayPro/PFDinDisplayPro-MediumItalic.woff') format('woff'),
+        url('../PFDINDisplayPro/PFDinDisplayPro-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'PF DinDisplay Pro';
+    src: url('../PFDINDisplayPro/PFDinDisplayPro-LightItalic.eot');
+    src: local('../PFDINDisplayPro/PFDinDisplayPro-LightItalic'),
+        url('../PFDINDisplayPro/PFDinDisplayPro-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('../PFDINDisplayPro/PFDinDisplayPro-LightItalic.woff') format('woff'),
+        url('../PFDINDisplayPro/PFDinDisplayPro-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'PF DinDisplay Pro';
+    src: url('../PFDINDisplayPro/PFDinDisplayPro-Black.eot');
+    src: local('../PFDINDisplayPro/PFDinDisplayPro-Black'),
+        url('../PFDINDisplayPro/PFDinDisplayPro-Black.eot?#iefix') format('embedded-opentype'),
+        url('../PFDINDisplayPro/PFDinDisplayPro-Black.woff') format('woff'),
+        url('../PFDINDisplayPro/PFDinDisplayPro-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF DinDisplay Pro';
+    src: url('../PFDINDisplayPro/PFDinDisplayPro-Regular.eot');
+    src: local('../PFDINDisplayPro/PFDinDisplayPro-Regular'),
+        url('../PFDINDisplayPro/PFDinDisplayPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../PFDINDisplayPro/PFDinDisplayPro-Regular.woff') format('woff'),
+        url('../PFDINDisplayPro/PFDinDisplayPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF DinDisplay Pro';
+    src: url('../PFDINDisplayPro/PFDinDisplayPro-Light.eot');
+    src: local('../PFDINDisplayPro/PFDinDisplayPro-Light'),
+        url('../PFDINDisplayPro/PFDinDisplayPro-Light.eot?#iefix') format('embedded-opentype'),
+        url('../PFDINDisplayPro/PFDinDisplayPro-Light.woff') format('woff'),
+        url('../PFDINDisplayPro/PFDinDisplayPro-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF DinDisplay Pro';
+    src: url('../PFDINDisplayPro/PFDinDisplayPro-Bold.eot');
+    src: local('../PFDINDisplayPro/PFDinDisplayPro-Bold'),
+        url('../PFDINDisplayPro/PFDinDisplayPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../PFDINDisplayPro/PFDinDisplayPro-Bold.woff') format('woff'),
+        url('../PFDINDisplayPro/PFDinDisplayPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF DinDisplay Pro';
+    src: url('../PFDINDisplayPro/PFDinDisplayPro-Medium.eot');
+    src: local('../PFDINDisplayPro/PFDinDisplayPro-Medium'),
+        url('../PFDINDisplayPro/PFDinDisplayPro-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../PFDINDisplayPro/PFDinDisplayPro-Medium.woff') format('woff'),
+        url('../PFDINDisplayPro/PFDinDisplayPro-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
